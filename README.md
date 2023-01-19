@@ -11,7 +11,8 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: REACT / JS / HTML / CSS
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mobinhimu&label=Profile%20views&color=0e75b6&style=flat" alt="mobinhimu" /> </p>
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
