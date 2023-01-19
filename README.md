@@ -21,7 +21,7 @@ Skills: REACT / JS / HTML / CSS
 
 
 </br>
-### Connect with me:
+
 
 ### Connect with me:
 
