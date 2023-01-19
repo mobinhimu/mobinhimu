@@ -43,11 +43,13 @@ Skills: REACT / JS / HTML / CSS
 
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
+ <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+
   <summary>📊 Github Readme Stats</summary>
  </br>
  <p align="center">
-  <a href="https://github.com/jahidulislamzim">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=mobinhimu&show_icons=true&locale=en&theme=radical&count_private=true" alt="jahidulislamzim">
+  <a href="https://github.com/mobinhimu">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=mobinhimu&show_icons=true&locale=en&theme=radical&count_private=true" alt="mobin himu">
   </a>
 
   <a href="https://github.com/mobinhimu/github-readme-stats">
