@@ -1,5 +1,12 @@
-### Hi there 👋, my name is Mobin
-#### Full-Stack Developer
+### HI THERE !
+
+<h1>I'M Jahidul Islam Zim</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=250&height=35&lines=Software+Engineer;UI+%26+UX+Designer;MERN+Stack+Developer)](https://jahidulislamzim.com/)
+
+
+
+
 ![Full-Stack Developer](https://github.com/mobinhimu/mobinhimu/blob/main/MOBIN2.jpg?raw=true)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
