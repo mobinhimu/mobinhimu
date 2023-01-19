@@ -48,7 +48,7 @@ Skills: REACT / JS / HTML / CSS
   <summary>📊 Github Readme Stats</summary>
  </br>
  <p align="center">
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobinhimu&show_icons=true&theme=radical)
  </p>
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobinhimu&theme=radical&hide_border=true"/>
