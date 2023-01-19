@@ -1,8 +1,8 @@
 ### HI THERE !
 
-<h1>I'M Jahidul Islam Zim</h1>
+<h1>Mobin Himu</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=250&height=35&lines=Software+Engineer;UI+%26+UX+Designer;MERN+Stack+Developer)](https://jahidulislamzim.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=250&height=35&lines=Software+Engineer;UI+%26+UX+Designer;MERN+Stack+Developer)](https://www.facebook.com/sdmmobin)
 
 
 
