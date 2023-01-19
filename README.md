@@ -48,13 +48,7 @@ Skills: REACT / JS / HTML / CSS
   <summary>📊 Github Readme Stats</summary>
  </br>
  <p align="center">
-  <a href="https://github.com/mobinhimu">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=mobinhimu&show_icons=true&locale=en&theme=radical&count_private=true" alt="mobin himu">
-  </a>
-
-  <a href="https://github.com/mobinhimu/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username==mobinhimu&layout=compact&theme=radical&langs_count=6" />
-  </a>
+  
  </p>
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobinhimu&theme=radical&hide_border=true"/>
