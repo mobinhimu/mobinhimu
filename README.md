@@ -8,8 +8,8 @@
 
 
 ![Full-Stack Developer](https://github.com/mobinhimu/mobinhimu/blob/main/MOBIN2.jpg?raw=true)
-<p align="center">![Profile views](https://gpvc.arturio.dev/mobinhimu)  </p>
-
+<p align="center">  </p>
+![Profile views](https://gpvc.arturio.dev/mobinhimu)
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: REACT / JS / HTML / CSS
