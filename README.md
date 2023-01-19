@@ -8,7 +8,7 @@ Skills: REACT / JS / HTML / CSS
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- I'm aspiring 🔭️ Web Developer currently learning 🌱 **ReactNative**.
+- I'm aspiring 🔭️ Web Developer currently learning 🌱 **JavaScript**.
 - I always like working in **Visual Studio Code** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
