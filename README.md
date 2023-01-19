@@ -1,6 +1,6 @@
 ### HI THERE !
 
-<h1>Mobin Himu</h1>
+<h1>I'M Mobin Himu</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=250&height=35&lines=Software+Engineer;UI+%26+UX+Designer;MERN+Stack+Developer)](https://www.facebook.com/sdmmobin)
 
@@ -21,19 +21,16 @@ Skills: REACT / JS / HTML / CSS
 
 
 </br>
-
 ### Connect with me:
 
 <p align="left">
-<a href="https://www.facebook.com/sdmmobin" target="blank"><img align="center" src="./Social/Facebook.png" alt="Mobin" height="40" width="40" /></a>
-
-<a href="https://www.instagram.com/mobin606272" target="blank"><img align="center" src="./Social/Instagram.png" alt="Mobin" height="40" width="40" /></a>
-
-<a href="https://wa.link/mb33pe" target="blank"><img align="center" src="./Social/Whatsapp.png" alt="Mobin" height="40" width="40" /></a>
-
-<a href="mailto: sdm241405@gmail.com" target="blank"><img align="center" src="./Social/gmail.png" alt="Mobin" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/jahidulislamzim/" target="blank"><img align="center" src="./Social/linkedin.png" alt="https://www.linkedin.com/in/jahidulislamzim/" height="40" width="40" /></a>
+<a href="https://www.facebook.com/jahidulislamzim10" target="blank"><img align="center" src="./Social/Facebook.png" alt="https://www.facebook.com/jahidulislamzim10" height="40" width="40" /></a>
+<a href="https://jahidulislamzim.netlify.app" target="blank"><img align="center" src="./Social/website.png" alt="https://jahidulislamzim.com/" height="40" width="40" /></a>
 
 </p
+
+<br />
 
 <br />
 
