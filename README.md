@@ -8,6 +8,7 @@
 
 
 ![Full-Stack Developer](https://github.com/mobinhimu/mobinhimu/blob/main/MOBIN2.jpg?raw=true)
+<p align="center">![Profile views](https://gpvc.arturio.dev/mobinhimu)  </p>
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -43,17 +44,12 @@ Skills: REACT / JS / HTML / CSS
 
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
- <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-
   <summary>📊 Github Readme Stats</summary>
  </br>
- <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobinhimu&show_icons=true&theme=radical)
- </p>
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobinhimu&theme=radical&hide_border=true"/>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/mobinhimu)  
+
   <a href="http://www.github.com/mobinhimu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mobinhimu&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
 
