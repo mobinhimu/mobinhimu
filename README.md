@@ -52,5 +52,5 @@ Skills: REACT / JS / HTML / CSS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mobinhimu)  
 
 ![Profile views](https://gpvc.arturio.dev/mobinhimu)  
-  <a href="http://www.github.com/mobinhimui"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mobinhimui&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
+  <a href="http://www.github.com/mobinhimu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mobinhimu&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
 
