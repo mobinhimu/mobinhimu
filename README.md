@@ -27,7 +27,8 @@ Skills: REACT / JS / HTML / CSS
 <a href="https://www.linkedin.com/in/jahidulislamzim/" target="blank"><img align="center" src="./Social/linkedin.png" alt="https://www.linkedin.com/in/jahidulislamzim/" height="40" width="40" /></a>
 <a href="https://www.facebook.com/jahidulislamzim10" target="blank"><img align="center" src="./Social/Facebook.png" alt="https://www.facebook.com/jahidulislamzim10" height="40" width="40" /></a>
 <a href="https://jahidulislamzim.netlify.app" target="blank"><img align="center" src="./Social/website.png" alt="https://jahidulislamzim.com/" height="40" width="40" /></a>
-
+<a href="https://jahidulislamzim.netlify.app" target="blank"><img align="center" src="./Social/website.png" alt="https://jahidulislamzim.com/" height="40" width="40" /></a>
+  <a href="https://jahidulislamzim.netlify.app" target="blank"><img align="center" src="./Social/website.png" alt="https://jahidulislamzim.com/" height="40" width="40" /></a>
 </p
 
 <br />
