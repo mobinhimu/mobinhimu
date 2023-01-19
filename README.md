@@ -41,13 +41,22 @@ Skills: REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mobinhimu)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinhimu)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mobinhimu&show_icons=true&count_private=true)  
+  <summary>📊 Github Readme Stats</summary>
+ </br>
+ <p align="center">
+  <a href="https://github.com/jahidulislamzim">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=mobinhimu&show_icons=true&locale=en&theme=radical&count_private=true" alt="jahidulislamzim">
+  </a>
 
-![GitHub metrics](https://metrics.lecoq.io/mobinhimu)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mobinhimu)  
+  <a href="https://github.com/mobinhimu/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username==mobinhimu&layout=compact&theme=radical&langs_count=6" />
+  </a>
+ </p>
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobinhimu&theme=radical&hide_border=true"/>
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/mobinhimu)  
   <a href="http://www.github.com/mobinhimu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mobinhimu&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
